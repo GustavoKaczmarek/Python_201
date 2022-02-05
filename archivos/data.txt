@@ -1,0 +1,17 @@
+archivo
+reloj
+telefono
+botella
+cafe
+puerta
+empanada
+cerveza
+bandeja
+mesa
+apartamento
+juego
+television
+zapatos
+datos
+python
+ayuda
